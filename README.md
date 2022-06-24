@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Fomonyuytar-Joseph/Fomonyuytar-Joseph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # 💫 About Me:
 My name is Fomoyuyatar Joseph am a software Enginnering student<br>Aspiring to be a Full Stack Javascript developer<br>I'm currently learning React ,Node,Express and Mongo Db
 
