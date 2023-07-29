@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am a software Enginnering student<br>Aspiring to be a Full Stack Javascript developer<br>I'm currently learning React ,Node,Express,React Native,NextJS and Mongo Db
+I am a software Enginner<br>Aspiring to be a Full Stack Javascript developer<br>I develop applications using Typescript, React ,NodeJS,Express,React Native,NextJS  Mongo Db and firebase
 
 
 ## 🌐 Socials:
