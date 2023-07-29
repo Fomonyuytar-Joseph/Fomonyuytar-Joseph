@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am a software Engineer<br>Aspiring to be a Full Stack Javascript developer<br>I develop applications using Typescript, React ,NodeJS,Express,React Native,NextJS  Mongo Db and firebase
+I am a software Engineer<br> Full Stack TypeScript developer<br>I develop applications using Typescript, React ,NodeJS,Express,React Native,NextJS  Mongo Db and firebase
 
 
 ## 🌐 Socials:
